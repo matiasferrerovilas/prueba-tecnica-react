@@ -1,0 +1,29 @@
+.app-header {
+  background-color: #fff;
+  border-bottom: 1px solid #f0f0f0;
+  padding: 12px 24px;
+}
+
+.app-header__bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.app-header__brand {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 20px;
+  font-weight: 600;
+  color: #1677ff;
+}
+
+.app-header__cart-icon {
+  font-size: 22px;
+  color: #1677ff;
+}
+
+.app-header__breadcrumb {
+  margin-top: 8px;
+}

@@ -1,0 +1,30 @@
+.product-card-link {
+  display: block;
+  color: inherit;
+}
+
+.product-card .ant-card-cover img {
+  height: 160px;
+  object-fit: contain;
+  padding: 16px;
+  background-color: #fafafa;
+}
+
+.product-card__brand {
+  margin: 0;
+  color: #8c8c8c;
+  font-size: 12px;
+  text-transform: uppercase;
+}
+
+.product-card__model {
+  margin: 4px 0;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.product-card__price {
+  margin: 0;
+  color: #1677ff;
+  font-weight: 600;
+}

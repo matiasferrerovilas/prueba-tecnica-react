@@ -1,0 +1,15 @@
+.product-image {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #fafafa;
+  border-radius: 8px;
+  padding: 32px;
+  min-height: 320px;
+}
+
+.product-image img {
+  max-width: 100%;
+  max-height: 360px;
+  object-fit: contain;
+}

@@ -1,0 +1,17 @@
+.product-detail-page {
+  padding: 24px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.product-detail-page__back {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-bottom: 20px;
+  color: #1677ff;
+}
+
+.product-detail-page__content {
+  margin-top: 8px;
+}

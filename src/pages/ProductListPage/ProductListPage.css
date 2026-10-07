@@ -1,0 +1,20 @@
+.product-list-page {
+  padding: 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.product-list-page__toolbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 24px;
+}
+
+.product-list-page__pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 24px;
+}
